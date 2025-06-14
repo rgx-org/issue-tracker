@@ -1,9 +1,9 @@
 # Rune Breakers Roadmap
 ### Current version: v0.25 ~ dev00 closed test
 Outline of **major** features for upcoming versions.  
-A version is considered completed when all of these major features are implemented. These lists are non-comprehensive and will fall out of date from time to time. Entries may be added, reorganized, or deleted over time. This roadmap started as an internal organization list for myself. I am sharing it publicly to give people an idea of what is upcoming, but don't expect it to all be comprehensive.
+A version is considered completed when all features are implemented. Lists are non-comprehensive and will fall out of date from time to time. Entries may be added, reorganized, or deleted over time. This roadmap started as an internal organization list for myself, I'm sharing it publicly to give people an idea of what is upcoming, but these are not feature promises or guarantees in any way.
 
-Upcoming version has a comprehensive "todo list", later versions have simple loose outlines of features.
+The next version has a detailed "todo list", while later versions have simple loose outlines of features.
 
 ## v0.3 ~ Dark Lord
 **Goal**: A mostly complete T2 (pre-transc) experience in the Lost Realm.
