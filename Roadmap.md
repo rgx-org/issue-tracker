@@ -18,6 +18,7 @@ The next version has a detailed "todo list", while later versions have simple lo
   - [ ] Sage
 - [ ] F15 Boons for implemented jobs
 - [ ] Finish WIP ropts
+- [ ] Add status effect descriptions
 - [ ] Run state improvements
   - [ ] Better handling of server restarts / lost runs
   - [ ] Party state improvements
