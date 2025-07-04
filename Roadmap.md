@@ -19,9 +19,9 @@ The next version has a detailed "todo list", while later versions have simple lo
 - [ ] F15 Boons for implemented jobs
 - [ ] Finish WIP ropts
 - [ ] Add status effect descriptions
-- [ ] Run state improvements
-  - [ ] Better handling of server restarts / lost runs
-  - [ ] Party state improvements
+- [x] Run state improvements
+  - [x] Better handling of server restarts / lost runs
+  - [x] Party state improvements
 - [ ] Overhaul monster aggro/targeting system
 - [ ] Implement Summons (new system)
 - [ ] Alchemist job
@@ -67,11 +67,17 @@ The next version has a detailed "todo list", while later versions have simple lo
   - [ ] F19 (White Knight)
 - [ ] Implement 'Sequences' (new backend system)
 
+## Interlude: Prototype test (Public)
+**Goal**: Limited weekend-only public tests to raise some initial awareness about the project.
+* Might happen before v0.3 is finished.
+* Will be focused on fixing bugs and community management.
+* Likely will do 2 or 3 tests, depending on how they go.
+
 ## v0.35 ~ Survival Mode
 **Goal**: Create a more comprehensive community experience with some replayable end-game mode and more progression/customization systems.
 * Survival Mode
   * Accessible by T2 characters who clear F20
-  * No permadeath, running out of Lives ends the run
+  * No permadeath, running out of Lives resets the run
   * Endless waves of scaling monsters, each wave being on a timer
   * Gain points based on how long a party lives for
 * Main town: Hiraeth
