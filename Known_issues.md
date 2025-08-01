@@ -9,6 +9,12 @@ If it's not there either, open a [new issue](https://github.com/rgx-org/issue-tr
 * Archer, Rogue, and Sage jobs are disabled.
 * Bows are not yet usable.
 
+## Regional
+* The UK and SG servers connect to the US for database calls. This makes initial login take a long time and act a little buggy, but after loading in, you should be fine.
+* Please do not attempt to login to multiple regional servers at once right now. You will be forcefully kicked to protect your account state, and it may prevent you from logging in properly.
+  * If this happens, tell ckx in IRC.
+  * Improvements to the regional system are underway.
+
 ## General
 * Sometimes you warp to the wrong place (esp on F15?). Workaround with `@unstuck`
 * There's no timer on logging out (intentional for testing).
